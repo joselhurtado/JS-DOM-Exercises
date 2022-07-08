@@ -1,1 +1,3 @@
-//alert here
+// Code Already Compiled
+
+window.alert("Hello World");
