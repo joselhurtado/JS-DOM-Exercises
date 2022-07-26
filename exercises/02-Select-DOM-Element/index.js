@@ -1,9 +1,9 @@
-//Need Help on This
-let newAlert = document.getElementById('#theTitle');
+//Code Already Compiled
+const newAlert = document.getElementById('theTitle').innerHTML;
 
-function alertNew(newAlert) {
+function alertNew() {
     return window.alert(newAlert);
 };
 
-alertNew();
+alertNew(newAlert);
 
